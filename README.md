@@ -28,12 +28,12 @@ A interface inclui:
 
 ## 📁 Estrutura do Projeto
 
+```
 mirai-money-login/
 │── index.html
 │── style.css
+```
 
-
----
 
 ## 📦 Como Executar
 
