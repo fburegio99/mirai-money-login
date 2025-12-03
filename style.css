@@ -1,0 +1,36 @@
+body {
+    background-color: #f5f6fa;
+}
+
+.title {
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+.input-custom {
+    height: 48px;
+    border-radius: 12px;
+}
+
+.btn-login {
+    height: 48px;
+    background-color: #7b3ff3;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.btn-login:hover {
+    background-color: #6927e8;
+}
+
+.link-create {
+    color: #7b3ff3;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+.link-create:hover {
+    text-decoration: underline;
+}
