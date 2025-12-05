@@ -1,7 +1,7 @@
 # MiraiMoney – Tela de Login
 
-Este repositório contém a implementação da **tela de Login** do projeto **MiraiMoney**, uma Fintech fictícia criada para a atividade prática da FIAP.  
-A interface foi desenvolvida com **HTML, CSS e Bootstrap**, seguindo o protótipo elaborado na Fase 2 (Prototyping).
+Este repositório contém a implementação da **tela de Login** do projeto **MiraiMoney**, uma Fintech criada para a atividade prática da FIAP.  
+A interface foi desenvolvida com **HTML, CSS e Bootstrap**.
 
 ---
 
@@ -16,13 +16,13 @@ A interface foi desenvolvida com **HTML, CSS e Bootstrap**, seguindo o protótip
 ## 🎨 Sobre o Projeto
 
 A MiraiMoney é uma Fintech focada em simplicidade, modernidade e facilidade de uso.  
-Nesta etapa da atividade, foi desenvolvida **somente a tela de Login**, conforme solicitado no enunciado.
+Nesta etapa da atividade, foi desenvolvida **a tela de Login**.
 
 A interface inclui:
 - Campos de e-mail e senha  
 - Botão de acesso  
 - Link para criação de conta  
-- Identidade visual com base no roxo utilizado no protótipo  
+- Identidade visual com base no roxo
 
 ---
 
@@ -46,13 +46,3 @@ mirai-money-login/
 ## 🔗 Link do Repositório
 
 https://github.com/fburegio99/mirai-money-login
-
----
-
-## 📚 Atividade FIAP
-
-Projeto desenvolvido para a disciplina do curso da FIAP, seguindo os requisitos:
-- 1 tela obrigatória  
-- HTML e CSS separados  
-- Uso de um framework (Bootstrap)  
-- Repositório público no GitHub  
